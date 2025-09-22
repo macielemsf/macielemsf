@@ -12,7 +12,8 @@
 ## Fun fact: very curious and interested
 -->
 ## I'm learning
-            <i class="devicon-windows8-original-wordmark"></i><i class="devicon-oracle-original"></i>
+            <i class="devicon-windows8-original-wordmark"></i>
+            <i class="devicon-oracle-original"></i>
             
 ## Courses       
 -Windows 8
