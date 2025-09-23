@@ -1,5 +1,8 @@
 ## Oi gente! 👋
 
+![Snake animation](https://github.com/macielemsf/macielemsf/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **macielemsf/macielemsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
