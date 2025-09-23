@@ -11,8 +11,9 @@
 ## :ok_woman: Curiosidade sobre mim: muito interessada nas coisas;
 -->
 ## :mortar_board: Estou aprendendo:
-            <i class="devicon-windows8-original-wordmark"></i>
-            <i class="devicon-oracle-original"></i>
+            
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
             
 ## :mortar_board: Conhecimentos:    
 -Windows 8
