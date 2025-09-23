@@ -8,7 +8,7 @@
 ## :stuck_out_tongue_closed_eyes: Atualmente trabalho na Secretaria de Desenvolvimento Econômico e Trabalho; 
 ## :skull: Estudante de Técnico em Segurança Cibernética; 
 ## :bust_in_silhouette: Contato: macielemsf@gmail.com (personal profile) or maciele57972496@edu.df.senac.br (student profile)
-## :ok_woman: Curiosidade sobre mim: muito interessada nas coisas que tenho interesse;
+## :ok_woman: Curiosidade sobre mim: muito interessada nas coisas;
 -->
 ## :mortar_board: Estou aprendendo:
             <i class="devicon-windows8-original-wordmark"></i>
